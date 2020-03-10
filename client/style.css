@@ -1,0 +1,77 @@
+#box {
+	width: 600px;
+	height: 400px;
+	float: left;
+	border: 1px solid black;
+	font-family: helvetica;
+	background-color: #576574;
+	color: white;
+	overflow-x: auto;
+	text-align: bottom;
+}
+
+#container {
+	border: 1px solid black;
+	width: 910px;
+	height: 450px;
+	margin: 30px;
+	padding: 30px;
+	background-color: #c8d6e5;
+}
+
+#users {
+	width: 300px;
+	height: 400px;
+	float: right;
+	border: 1px solid black;
+	font-family: helvetica;
+	background-color: #576574;
+	color: white;
+	overflow-x: auto;
+}
+
+#clear {
+	clear: both;
+}
+
+#msg {
+	width: 700px;
+	margin: 5px;
+	background-color: #8395a7;
+	font-family: helvetica;
+	color: white;
+	float: right;
+}
+
+#name {
+	width: 180px;
+	margin: 5px;
+	background-color: #8395a7;
+	font-family: helvetica;
+	color: white;
+	float: left;
+}
+
+#tmp1 {
+	width: 100px;
+	float: left;
+	font-family: helvetica;
+}
+
+#tmp2 {
+	width: 700px;
+	float: right;
+	font-family: helvetica;
+}
+
+#header {
+	width: 300px;
+	float: left;
+	font-family: helvetica;
+}
+
+#header2 {
+	width: 300px;
+	float: right;
+	font-family: helvetica;
+}
